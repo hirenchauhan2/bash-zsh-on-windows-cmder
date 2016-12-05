@@ -7,11 +7,13 @@ If you don't have **Cmder**, get it from [here](http://cmder.net).
 Launch **Cmder**, and press `Win + Alt + T` to open up the settings dialog for Tasks.
 
 Alternatively you can open up the hamburger menu on the bottom right of the window and navigate to:
+
 `Settings -> Startup -> Tasks`.
+
 
 ### Step 1
 
-You create a new Task by clicking on the ‘+‘ Button at the bottom and enter the details.
+You create a new Task by clicking on the **+** Button at the bottom and enter the details.
 
 ### Step 2
 
