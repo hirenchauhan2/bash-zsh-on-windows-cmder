@@ -27,6 +27,9 @@ In the `Task parameters` input you can configure an icon
 /icon "%USERPROFILE%\AppData\Local\lxss\bash.ico"
 ```
 
+> _Sometimes the icon is not available in that directory. Try to look into this directory: `C:\Program Files\WindowsApps\CanonicalGroupLimited.UbuntuonWindows_VERSION\images` there. the `CanonicalGroupLimited.UbuntuonWindows_VERSION` would be different as per the installations. Or download the icon from internet_
+
+
 ### Step 4
 In the `Commands` input field, you enter the command that this task should start. This is the actual call to Bash:
 
