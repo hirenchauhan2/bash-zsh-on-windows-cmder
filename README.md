@@ -34,7 +34,7 @@ In the `Task parameters` input you can configure an icon
 In the `Commands` input field, you enter the command that this task should start. This is the actual call to Bash:
 
 ```
-%windir%\system32\bash.exe ~ -cur_console:p
+%windir%\system32\bash.exe ~ -cur_console:p5
 ```
 Now you have **bash** in your **Cmder** console :fire:
 
@@ -49,7 +49,7 @@ This will cause `Bash.exe` to start `Zsh` automatically.
 
 The full line is:
 ```
-%windir%\system32\bash.exe ~ -c zsh -cur_console:p
+%windir%\system32\bash.exe ~ -c zsh -cur_console:p5
 ```
 
 Now just create new console by clicking on Green + button and select console as `{Ubuntu::zsh}` or `{Ubuntu::bash}` from first combobox and click on start enjoy :fire:
